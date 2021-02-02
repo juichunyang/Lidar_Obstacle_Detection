@@ -7,7 +7,7 @@ Clone the Lidar Obstacle Detection package.
 ```
 git clone https://github.com/CuteJui/Lidar_Obstacle_Detection.git
 ```
-Go to the directory
+Go to the Lidar Obstacle Detection directory
 ```
 cd /home/user/Lidar_Obstacle_Detection
 ```
