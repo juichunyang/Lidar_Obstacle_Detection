@@ -1,5 +1,5 @@
 # Lidar_Obstacle_Detection
-<img src=""/>
+<img src="https://github.com/CuteJui/Lidar_Obstacle_Detection/blob/master/readme_resource/demo.gif"/>
 This is the first project of Sensor Fusion Nanodegree of Udacity. First of all, I segmented the input point cloud data into road plane cloud and obstacle cloud by using 3D RANSAC algorithm. Next, I built a KD-Tree for obstacle cloud and then clustered them by Euclidean Clustering. Finally, I placed bounding box to enclose these vehicles. The structure of the environment is built by the main instructor, Aaron Brown.
 
 ## Usage
