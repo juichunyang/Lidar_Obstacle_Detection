@@ -29,5 +29,5 @@ make
 ```
 Run the executable
 ```
-./enviroment
+./environment
 ```
