@@ -19,11 +19,11 @@ Go into the build directory
 ```
 cd build
 ```
-Run cmake pointing to the CMakeList.txt in the root
+Run `cmake` pointing to the CMakeList.txt in the root
 ```
 cmake ..
 ```
-Run make
+Run `make`
 ```
 make
 ```
