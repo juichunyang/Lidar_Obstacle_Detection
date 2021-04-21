@@ -11,7 +11,7 @@ Go to the Lidar Obstacle Detection directory
 ```
 cd /home/user/Lidar_Obstacle_Detection
 ```
-Create a new directory
+Make a build directory
 ```
 mkdir build
 ```
